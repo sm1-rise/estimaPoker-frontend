@@ -17,8 +17,7 @@ export default function Main(){
               <p>EstimaPoker é sua solução perfeita para projetos Ágeis! Simplifique a estimativa de tarefas e fortaleça a colaboração da sua equipe.</p>
             </ContainerTexto>
             <ContainerBotao>
-              <ButtonMain text="Criar Sala" bgColor="#000"></ButtonMain>
-              <ButtonMain text="Entrar em sala Existente" bgColor="#ec5353" color="#fff"></ButtonMain>
+              <ButtonMain text="Entrar em sala Existente" bgColor="#000" color="#fff"></ButtonMain>
             </ContainerBotao>
           </ContainerConteudo>
         </Section>

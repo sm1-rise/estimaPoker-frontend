@@ -13,15 +13,15 @@ export default function Header(){
                     <ul>
                         <li>
                             <HoverLi>
-                                <Link to={"/home"}>
-                                     Home
+                                <Link to={"/login"}>
+                                     Login
                                 </Link> 
                             </HoverLi>
                         </li>
                         <li>
                             <HoverLi>
-                                <Link to={"/rooms"}>
-                                     Rooms
+                                <Link to={"/signup"}>
+                                     Sign Up
                                 </Link> 
                             </HoverLi>
                         </li>
